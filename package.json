@@ -1,0 +1,19 @@
+{
+  "name": "pdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sidy & laye",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "fs-extra": "^10.0.0",
+    "handlebar": "^1.0.0",
+    "handlebars": "^4.7.7",
+    "moment": "^2.29.1",
+    "puppeteer": "^13.0.0"
+  }
+}
